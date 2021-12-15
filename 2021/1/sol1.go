@@ -1,4 +1,4 @@
-// Description: Advent of Code 2021 - Problem 1
+// Description: Advent of Code 2021 - Problem 1.1
 // 	- determine the number of measurements that are larger (deeper) than the previous
 
 package main
