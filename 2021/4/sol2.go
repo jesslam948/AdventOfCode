@@ -1,12 +1,6 @@
-// Description: Advent of Code 2021 - Problem 4.1
-// 	- determine the first winning bingo board
-
-// Thoughts :
-// 	- get a list of all of the bingo numbers
-// 	- for each 6 lines (a board)
-//		- somehow reconstruct the board (list of numbers) + two arrays for row + col and update number of nums crossed out for each and finish when we reach 5
-//		- play until winning and keep track of total # of moves & calculate final score
-//		- if this board's total moves is less than the previous best board, update total moves and final score
+// Description: Advent of Code 2021 - Problem 4.2
+// 	- determine the last winning bingo board
+// 	- updated sol1 to instead look for last winning as opposed to first winning
 
 package main
 
