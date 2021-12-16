@@ -1,4 +1,4 @@
-// Description: Advent of Code 2021 - Problem 3.1
+// Description: Advent of Code 2021 - Problem 3.2
 // 	- determine the life support rating by getting the product of the oxygen and co2 ratings
 //	- determine most common bit in a position and remove all other numbers, go right and keep filtering -- last number is the oxygen rating
 //	- similar process for co2 except use the least common bit
